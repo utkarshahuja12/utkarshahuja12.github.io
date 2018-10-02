@@ -1,0 +1,133 @@
+#background-image {
+
+	background-image: url("pexels-photo-399161.jpeg");
+	z-index: -1;	
+	height: 100%;
+	width: 100%;
+	
+
+}
+#resume_help
+{
+	background-color: #dadbf9;
+	width: 100%;
+	height: 60px;
+}
+.*{
+	webkit-box-sizing: border-box; 
+	-moz-box-sizing: border-box;
+	box-sizing: border-box; 
+}
+#name { 
+	font-family: Lobster; 
+	text-align: center;color: black;
+	z-index: 1;
+}
+.myimage
+{
+	margin-top: 50px;
+	border-radius: 50%;
+	width: 150px;
+	height: 150px;
+	z-index: 1;
+}
+.intro
+{
+	margin-right: 50px;
+	margin-top: 30px;
+	margin-left: 50px;
+
+}
+#projects
+{
+	color: black;
+}
+.aboutme
+{
+	font-family: Roberto;
+	color: black;
+	font-size: 20px;
+}
+.hail
+{
+	font-family: Roberto;
+	text-align: center;
+	
+}
+.hail li
+{
+	display: inline;
+}
+.interests
+{
+	
+	text-align: center;
+}
+#description{
+margin-left: 5%;
+
+background-color: #dadbf9;
+
+height: 100%;
+
+padding-bottom: 1%;
+
+padding-top: 1%;
+
+padding-right: 1%;
+margin-top: 1%;
+padding-left: 3%;
+font-family: Roberto;
+}
+#project-heading
+{
+	text-align: left;
+	font-family: Roberto;
+}
+#resume
+{
+	font-family: Roberto;
+	color: black;
+
+}
+.interests li
+{
+	display: inline;
+}
+.academics{
+	padding: 10px;
+	color: black;
+	text-align: center;
+
+}
+.coursestaken
+{
+	
+}
+.coursetype
+{
+	text-align: center;
+	color: black;
+	padding: 5px;
+}
+.hrd
+{
+	    border-top: 1px solid #333;
+}
+.navbar
+{
+
+	position: fixed;
+	top: 0;
+}
+
+
+.skill
+{
+	
+}
+.skill_div
+{
+	padding: 15px;
+	text-align: center;
+}
