@@ -48,12 +48,12 @@
 	width: 100%;
 	height: 60px;
 }
-.*{
+/*.*{
 	
 	-webkit-box-sizing: border-box; 
 	-moz-box-sizing: border-box;
 	box-sizing: border-box; 
-}
+}*/
 #name { 
 	font-family: Lobster; 
 	text-align: center;color: black;
